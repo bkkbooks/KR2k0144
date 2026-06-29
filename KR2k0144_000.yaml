@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0144/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十一
+  hash: sha256:5f8ab01fbfc809cc911a707e5aa22577e1ed198056f701795ddffcd84b7bc12f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0144_WYG_000-1a, image: WYG0594/WYG0594-0117a.png}
+body:
+  text: 海語地理類十外紀之屬提要臣等謹案海語三卷明黃衷撰衷字子和上海人𢎞治丙辰進士官至兵部右侍郎是書乃其晚年致政家居就海洋畨舶詢悉其山川風土裒録成編自序稱鐵橋病叟者其别號也廣東通志載是書作一卷此本實三卷分為四類曰風俗凡二目曰物産凡二十九目曰畏途凡五目曰物怪凡八目所述海中荒忽竒譎之狀極為詳備然皆出舟師舵卒所親見非山海經神異經等純搆虛詞誕幻不經者比每條下間附論斷詞致並髙簡時寓勸戒亦頗有可觀書中别有附注乃其族子學準增加原本所載今併存焉案明史滿剌加傳稱正嘉間為佛郎機所滅而此書則稱佛郎機破其國王退依陂隄里佛郎機整衆而去王乃復所云云與史稍有不同此書成於嘉靖初海賈所傳見聞較近似當不失其實是尤可訂史傳之異不僅博物之資矣乾隆四十六年十二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:9c2117ef5a4bdb874521ee482b6a38378f749b4cd57b35285fee595fb98d8e61
+metadata:
+  title: 海語
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:47:20.895577'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2k0144/KR2k0144_000.txt
+hash: sha256:f855e602926605b76c87137c4e36037747c3d047978864c30f716ad04acc8305
